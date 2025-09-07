@@ -18,12 +18,12 @@
 <!-- GitHub Stats & Trophies -->
 <div align="center">
   <!-- Profile Details Card (similar to the one in the image) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raveesha23&theme=dark&hide_border=false" alt="GitHub Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raveesha23&theme=github_dark&hide_border=false" alt="GitHub Profile Details"/>
   <br><br>
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Raveesha23&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raveesha23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveesha23&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveesha23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
   <br><br>
   <!-- GitHub Trophies -->
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=Raveesha23&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> -->
